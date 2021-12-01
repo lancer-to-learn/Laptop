@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/vn/iotstar/api/admin/CategoryAPIController.java=UTF-8
+encoding//src/main/java/vn/iotstar/api/admin/CategoryAPIGsonController.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/CategoryDao.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/ProductDao.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/ProductDaoImpl.java=UTF-8
+encoding//src/main/java/vniotstar/controller/web/CartController.java=UTF-8
+encoding//src/main/java/vniotstar/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/vniotstar/controller/web/LoginController.java=UTF-8
+encoding//src/main/java/vniotstar/controller/web/ProductController.java=UTF-8
+encoding//src/main/java/vniotstar/controller/web/ProductDetailController.java=UTF-8
+encoding//src/main/java/vniotstar/controller/web/SearchController.java=UTF-8
